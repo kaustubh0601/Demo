@@ -1,3 +1,3 @@
 # Demo
 learning git and github 
-author: kaustubh kumbharkar
+author: kaustubh A. kumbharkar
